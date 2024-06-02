@@ -1,4 +1,6 @@
 # Breast-Cancer-Statistical-Analysis
-Analyze and visualize breast cancer data
-
+Statistical analysis and visualization of breast cancer data
 ![alt text](image.png)
+
+Naive Bayes prediction
+![alt text](image-1.png)
